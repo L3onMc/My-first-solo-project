@@ -1,0 +1,70 @@
+.main {
+    background-image: url("image/city.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 1%;
+    }
+    
+.btn {
+   padding: 10px 10px;
+   background-color: skyblue;
+   font-family: cursive;
+   font-size: 27px;
+   color: white;
+   border: none;
+   border-radius: 7px;
+   text-shadow: 2px 0px 2px black;
+   margin-top: 40px;
+   }
+.btn1 {
+   padding: 10px 10px;
+   background: gray;
+   margin-top: 18px;
+   border: none;
+   color: white;
+   border-radius: 7px;
+   font-family:cursive;
+   font-size: 15px;
+   width: 85%;
+   text-shadow: 1px 0px 1px black;
+   margin-bottom: 100px;
+}   
+.top {
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+ }
+ .small {
+	width: 120px;
+	height: 120px;
+   border-radius: 50%
+  }
+  .container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	text-align: center;
+   margin-bottom: 15px;
+  }
+.avatar {
+    width: 120px;
+    padding: 4px;
+    border-radius: 15px;
+    border: 2px solid black;
+}
+.card {
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: skyblue;
+    color: #2b2839;
+    border-bottom: 6px solid #d8cefe;
+    border-radius: 12px;
+    }
